@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Hammad | Academic Website"
+title: "Hi there! I'm Mohammad Hammad."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there! My name is Mohammad Hammad.
-=====
 My name is Mohammad Hammad. I am a Freshman, majoring in Computer Science at King Fahd University of Petroleum and Minerals (KFUPM) in Dhahran, Saudi Arabia. 
 
 I am particularly interested in the field of Machine Learning and hope to pursue an advanced degree in the field. 

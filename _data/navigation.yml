@@ -8,7 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "CV"
+  - title: "Résumé"
     url: /files/Hammad_CV.pdf
     
   - title: "Portfolio"
